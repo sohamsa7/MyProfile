@@ -64,7 +64,7 @@ with intro_col:
     st.title("Soham Ajgaonkar")
 
     st.write(
-        "Hi! My name is Soham Ajgaonkar. I am an engineering "
+        "Hello! My name is Soham Ajgaonkar. I am an engineering "
         "student with interests in Machine Learning, "
         "Reinforcement Learning and Competitive Programming."
     )
